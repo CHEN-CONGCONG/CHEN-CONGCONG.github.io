@@ -41,9 +41,3 @@ Membership and service
 ======
 * Student Member, [China Computer Federation (CCF)](http://www.ccf.org.cn/sites/ccf/): Beijing, CN
 * Student Member, Association for Computing Machinery (ACM): New York, NY, US
-
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
