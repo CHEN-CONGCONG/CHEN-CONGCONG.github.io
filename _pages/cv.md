@@ -23,6 +23,7 @@ Honors & Awards
 * Excellent Graduate Student in Shanghai, Shanghai Municipal Education Commission, Shanghai, China, 2022-06
 * National Scholarship for Master's Degree Students, Ministry of Education, China, 2021-12
 * the Second Award of "Huawei Cup" The 18th China Post-Graduate Mathematical Contest in Modeling, China Association for Degree and Graduate Education and Chinese Association for Science and Technology Youth Science and Technology Center, China, 2021-12
+<br>
 
 Projects
 ======
@@ -38,6 +39,7 @@ Projects
 * Natural Science Foundation of Shanghai
   * Grant number: 18ZR1417300, 22ZR1427100
 * Luo Zhaorao Science and Technology Innovation Fund of Shanghai Ocean University
+<br>
 
 Membership and services
 ======
