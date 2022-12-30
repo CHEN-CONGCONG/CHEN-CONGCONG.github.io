@@ -11,49 +11,39 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. in Software Engineering, School Of Software Jiangxi Agricultural University, 2014-09-01 to 2018-07-01
+* M.S. in Computer Technology, College of Information Technology Shanghai Ocean University, 2019-09-01 to 2022-05-20
+* Ph.D in Software Engineering, School of Software Engineering Tongji University, 2022-09-01 to 2026-07-01(expected)
 
-Work experience
+Honors & Awards
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* National scholarship for Doctoral Students, Ministry of Education, China, 2022-12
+* Excellent Graduate Student in Shanghai, Shanghai Municipal Education Commission, Shanghai, China, 2022-06
+* National Scholarship for Master's Degree Students, Ministry of Education, China, 2021-12
+* the Second Award of "Huawei Cup" The 18th China Post-Graduate Mathematical Contest in Modeling, China Association for Degree and Graduate Education and Chinese Association for Science and Technology Youth Science and Technology Center, China, 2021-12
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
-Skills
+Projects
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+## Projects Presided
+* Luo Zhaorao Science and Technology Innovation Fund of Shanghai Ocean University
+  * Funding type: Grant
+  * Funding agency name: Shanghai Ocean University
+  * Grant number: A1-2004-20-201312
+
+## Projects Involved
+* National Natural Science Foundation of China
+  * Grant number: 61972241, 61972094
+* Natural Science Foundation of Shanghai
+  * Grant number: 18ZR1417300, 22ZR1427100
+* Luo Zhaorao Science and Technology Innovation Fund of Shanghai Ocean University
+
+Membership and service
+======
+* Student Member, [China Computer Federation (CCF)](http://www.ccf.org.cn/sites/ccf/): Beijing, CN
+* Student Member, Association for Computing Machinery (ACM): New York, NY, US
 
 Publications
 ======
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
