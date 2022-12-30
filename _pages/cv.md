@@ -37,7 +37,14 @@ Projects
   * Grant number: 18ZR1417300, 22ZR1427100
 * Luo Zhaorao Science and Technology Innovation Fund of Shanghai Ocean University
 
-Membership and service
+Membership and services
 ======
+## Membership
 * Student Member, [China Computer Federation (CCF)](http://www.ccf.org.cn/sites/ccf/): Beijing, CN
 * Student Member, Association for Computing Machinery (ACM): New York, NY, US
+
+## Services
+* Journal Reviewer
+  * IEEE System Journal
+* Conforence Reviewer
+  * International Conference on Networks, Communication and Information Technology (NCIT 2022)
