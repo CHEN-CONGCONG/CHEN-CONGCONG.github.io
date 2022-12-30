@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Publications ([Google Scholar Profile](https://scholar.google.com/citations?user=mKiN4goAAAAJ&hl=zh-CN))"
+title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
@@ -20,7 +20,7 @@ author_profile: true
 {% for post in site.publications reversed %}
   {% include archive-single.html %}
 {% endfor %} -->
-
+You can visit my [Google Scholar Profile](https://scholar.google.com/citations?user=mKiN4goAAAAJ&hl=zh-CN) or [ORCID](https://orcid.org/0000-0002-1716-1332) for more information.
 ## 2022
 * <b>Efficient Private Set Intersection Protocols with Semi-trusted Cloud Server Aide</b>.<br>
 LiFei Wei, Qin Wang, Lei Zhang,  <b>CongCong Chen</b>, YuJiao Chen, JianTing Ning. 
