@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "CHEN CONGCONG"
+title: "Mainly concerned with machine learning, cryptography, ciphertext calculation, especially privacy preserving in machine learning."
 excerpt: "About me"
 author_profile: true
 redirect_from: 
