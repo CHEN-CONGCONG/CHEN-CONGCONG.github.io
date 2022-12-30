@@ -32,7 +32,7 @@ Chen, C., Wei, L., Zhang, L. et al. MP-BADNet+: Secure and effective backdoor at
     number = {6},
     pages = {2457--2473},
     author = {Congcong Chen and Lifei Wei and Lei Zhang and Ya Peng and Jianting Ning},
-    title = {{MP}-{BADNet}{\textdollar}{\textdollar}{\^{}}$\mathplus${\textdollar}{\textdollar}: Secure and effective backdoor attack detection and mitigation protocols among multi-participants in private {DNNs}},
+    title = MP-BADNet$$+$$: Secure and effective backdoor attack detection and mitigation protocols among multi-participants in private DNNs,
     journal = {Peer-to-Peer Networking and Applications}
 } 
 ```
