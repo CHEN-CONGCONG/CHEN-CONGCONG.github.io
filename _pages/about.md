@@ -15,7 +15,9 @@ My research interests primarily lie in the fields of **privacy-preserving machin
 I am particularly interested in exploring the privacy protection of data and models, as well as the development of efficient building blocks, with the goal of applying theoretical and algorithmic advances to real-world scenarios.
 
 # Recent News
-* There are currently no new updates.
+* Nov 15, 2022. A paper titled "Efficient Private Set Intersection Protocols with Semi-trusted Cloud Server Aide" is published at Journal of Software (CCF-A Journal), available at [here](http://dx.doi.org/10.13328/j.cnki.jos.006397).
+* Oct 10, 2022. A first-author paper titled "DeepGuard: Backdoor Attack Detection and Identification Schemes in Privacy-Preserving Deep Neural Networks" is published at Security and Communication Networks (SCN, CCF-C Journal / JCR Q2), available at [here](https://doi.org/10.1155/2022/2985308).
+* Sep 5, 2022. A first-author titled "MP-BADNet+: Secure and effective backdoor attack detection and mitigation protocols among multi-participants in private DNNs" is accepted at Peer-to-Peer Networking and Applications (PPNA, CCF-C Journal / JCR Q2), available at [here](https://doi.org/10.1007/s12083-022-01377-6).
 
 # Contact
 <b>Congcong Chen</b> <br>
@@ -25,6 +27,6 @@ Email: chencongcong@tongji.edu.cn / chencongcong0302@163.com <br>
 
 Search for <b>CHEN CONGCONG</b> on WeChat Official Account or scan the QR code in the following image.
 
-<img src="https://chen-congcong.github.io/WeChat_QR.jpg" sytle="display: block;margin-left: auto;margin-right: auto;width: 50%;">
+<img src="https://chen-congcong.github.io/images/WeChat_QR.jpg" sytle="display: block;margin-left: auto;margin-right: auto;width: 50%;">
 <!---Activity and Service--->
 <!---Experience--->
