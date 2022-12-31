@@ -55,7 +55,7 @@ Lifei Wei, Mengsi Li, Lei Zhang, <b>Congcong Chen</b>, YuJiao Chen, Qin Wang.
 
 ## 2020
 * <b>Security Issues and Privacy Preserving in Machine Learning</b>.<br>
-<b>Congcong Chen</b>, Lifei Wei, Lei Zhang, Jianting Ning. 
+Lifei Wei, <b>Congcong Chen</b>, Lei Zhang, Mengsi Li, Yujiao Chen, Qin Wang. 
 <i>Journal of Computer Research and Development</i>.<br>
 [[Link]](https://doi.org/10.7544/issn1000-1239.2020.20200426)
 [[PDF]](https://chen-congcong.github.io/files/paper/2020-10-01-paper-security-issues-and-privacy-preserving-in-machine-learning.pdf)
