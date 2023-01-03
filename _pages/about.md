@@ -9,9 +9,12 @@ redirect_from:
 ---
 
 I am currently a Ph.D. student in the School of Software Engineering (SSE) at Tongji University (TONGJI), under the supervision of Professor [Yang Shi](https://sse.tongji.edu.cn/info/1212/3267.htm).  <br>
+
 Prior to this, I received my Master of Engineering degree from the College of Information Technology at Shanghai Ocean University, under the guidance of Professor [Lifei Wei](https://cie.shmtu.edu.cn/2022/0612/c6356a175593/page.htm). My Bachelor of Engineering degree was obtained from the School of Software at Jiangxi Agricultural University.
+
 # Research
 My research interests primarily lie in the fields of **privacy-preserving machine learning and secure multi-party computation**, with additional focus on **AI security and privacy computing**.   <br>
+
 I am particularly interested in exploring the privacy protection of data and models, as well as the development of efficient building blocks, with the goal of applying theoretical and algorithmic advances to real-world scenarios.
 
 # Recent News
