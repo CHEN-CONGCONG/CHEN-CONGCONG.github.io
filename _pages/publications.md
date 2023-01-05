@@ -23,7 +23,7 @@ author_profile: true
 You can visit my [Google Scholar Profile](https://scholar.google.com/citations?user=mKiN4goAAAAJ&hl=zh-CN) or [ORCID](https://orcid.org/0000-0002-1716-1332) for more information.
 ## 2022
 * <b>Efficient Private Set Intersection Protocols with Semi-trusted Cloud Server Aide</b>.<br>
-Lifei Wei, Qin Wang, Lei Zhang,  <b>CongCong Chen</b>, YuJiao Chen, JianTing Ning. 
+Lifei Wei, Qin Wang, Lei Zhang,  <b>Congcong Chen</b>, Yujiao Chen, Jianting Ning. 
 <i>Journal of Software</i>.<br>
 [[Link]](http://dx.doi.org/10.13328/j.cnki.jos.006397)
 [[PDF]](http://www.jos.org.cn/jos/article/pdf/6397)
@@ -42,7 +42,7 @@ Lifei Wei, Qin Wang, Lei Zhang,  <b>CongCong Chen</b>, YuJiao Chen, JianTing Nin
 
 ## 2021
 * <b>Privacy-Preserving Linear Regression Algorithm Based on Secure Two-Party Computation</b>.<br>
-Lifei Wei, Mengsi Li, Lei Zhang, <b>Congcong Chen</b>, YuJiao Chen, Qin Wang. 
+Lifei Wei, Mengsi Li, Lei Zhang, <b>Congcong Chen</b>, Yujiao Chen, Qin Wang. 
 <i>Computer Engineering and Applications</i>.<br>
 [[Link]](https://doi.org/10.3778/j.issn.1002-8331.2007-0337)
 [[PDF]](http://cea.ceaj.org/CN/10.3778/j.issn.1002-8331.2007-0337#1)
