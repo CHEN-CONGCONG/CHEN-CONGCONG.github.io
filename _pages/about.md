@@ -28,7 +28,7 @@ School of Software Engineering, Tongji University <br>
 Address: 4800 Cao’an  Road, Jiading District, Shanghai 201804 <br>
 Email: chencongcong@tongji.edu.cn / chencongcong0302@163.com <br>
 
-Search for <b>CHEN CONGCONG</b> on WeChat Official Account or scan the QR code in the following image.
+Search for <b>CHEN CONGCONG</b> on WeChat Official Account or scan the QR code in the following image to get the latest articles.
 
 <img src="https://chen-congcong.github.io/images/WeChat_QR.jpg" sytle="display: block;margin-left: auto;margin-right: auto;width: 50%;">
 <!---Activity and Service--->
