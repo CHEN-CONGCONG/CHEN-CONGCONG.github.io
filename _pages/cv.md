@@ -11,11 +11,12 @@ redirect_from:
 
 Education
 ======
-* B.S. in Software Engineering, School of Software Jiangxi Agricultural University, 2014-09-01 to 2018-07-01
-* M.S. in Computer Technology, College of Information Technology Shanghai Ocean University, 2019-09-01 to 2022-05-20
-  * Advisor: Professor Lifei Wei
 * Ph.D in Software Engineering, School of Software Engineering Tongji University, 2022-09-01 to 2026-07-01(expected)
   * Advisor: Professor Yang Shi
+* M.S. in Computer Technology, College of Information Technology Shanghai Ocean University, 2019-09-01 to 2022-05-20
+  * Advisor: Professor Lifei Wei
+* B.S. in Software Engineering, School of Software Jiangxi Agricultural University, 2014-09-01 to 2018-07-01
+
 
 Honors & Awards
 ======
