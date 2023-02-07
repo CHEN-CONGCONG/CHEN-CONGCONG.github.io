@@ -19,7 +19,7 @@ Education
 
 Honors & Awards
 ======
-* Nomination Award for Excellent Master's Degree Thesis, Shanghai Computer Society, Shanghai, China, 2023-01
+* Nomination Award for Excellent Master's Degree Thesis, Shanghai Computer Society, Shanghai, China, 2023-01 [Link](https://mp.weixin.qq.com/s/6ejjdRWSTjqwINSeZSm5lg)
 * National scholarship for Doctoral Students, Ministry of Education, China, 2022-12
 * Excellent Graduate Student in Shanghai, Shanghai Municipal Education Commission, Shanghai, China, 2022-06
 * National Scholarship for Master's Degree Students, Ministry of Education, China, 2021-12
