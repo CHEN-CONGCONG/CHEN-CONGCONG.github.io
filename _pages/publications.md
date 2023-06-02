@@ -21,6 +21,13 @@ author_profile: true
   {% include archive-single.html %}
 {% endfor %} -->
 You can visit my [Google Scholar Profile](https://scholar.google.com/citations?user=mKiN4goAAAAJ&hl=zh-CN) or [ORCID](https://orcid.org/0000-0002-1716-1332) for more information.
+## 2023
+* <b>DeepDefense: A Steganalysis-Based Backdoor Detecting and Mitigating Protocol in Deep Neural Networks for AI Security</b>.<br>
+Lei Zhang, Ya Peng, Lifei Wei, <b>Congcong Chen</b>, Xiaoyu Zhang. 
+<i>Security and Communication Networks (<b>SCN</b>)</i>.<br>
+[[Link]](https://doi.org/10.1155/2023/9308909)
+[[PDF]](https://downloads.hindawi.com/journals/scn/2023/9308909.pdf)
+
 ## 2022
 * <b>Efficient Private Set Intersection Protocols with Semi-trusted Cloud Server Aide</b>.<br>
 Lifei Wei, Qin Wang, Lei Zhang,  <b>Congcong Chen</b>, Yujiao Chen, Jianting Ning. 
