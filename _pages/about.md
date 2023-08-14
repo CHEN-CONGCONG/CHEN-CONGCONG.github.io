@@ -26,7 +26,7 @@ I am particularly interested in exploring the privacy protection of data and mod
 * Sep 5, 2022. A first-author titled "MP-BADNet+: Secure and effective backdoor attack detection and mitigation protocols among multi-participants in private DNNs" is accepted at Peer-to-Peer Networking and Applications (PPNA, CCF-C Journal / JCR Q2), available at [here](https://doi.org/10.1007/s12083-022-01377-6).
 
 # Blog
-Please visit [https://blog.mrccc.club.](https://blog.mrccc.club).
+Please visit [https://blog.mrccc.club](https://blog.mrccc.club).
 
 # Contact
 <b>Congcong Chen</b> <br>
