@@ -14,9 +14,6 @@ Prior to this, I received my Master of Engineering degree from the College of In
 
 My Bachelor of Engineering degree was obtained from the School of Software at Jiangxi Agricultural University.
 
-# Blog
-Please visit [https://blog.mrccc.club.](https://blog.mrccc.club).
-
 # Research
 My research interests primarily lie in the fields of **privacy-preserving machine learning and secure multi-party computation**, with additional focus on **AI security and privacy computing**.   <br>
 
@@ -27,6 +24,9 @@ I am particularly interested in exploring the privacy protection of data and mod
 * Nov 15, 2022. A paper titled "Efficient Private Set Intersection Protocols with Semi-trusted Cloud Server Aide" is published at Journal of Software (CCF-A Journal), available at [here](http://dx.doi.org/10.13328/j.cnki.jos.006397).
 * Oct 10, 2022. A first-author paper titled "DeepGuard: Backdoor Attack Detection and Identification Schemes in Privacy-Preserving Deep Neural Networks" is published at Security and Communication Networks (SCN, CCF-C Journal / JCR Q3), available at [here](https://doi.org/10.1155/2022/2985308).
 * Sep 5, 2022. A first-author titled "MP-BADNet+: Secure and effective backdoor attack detection and mitigation protocols among multi-participants in private DNNs" is accepted at Peer-to-Peer Networking and Applications (PPNA, CCF-C Journal / JCR Q2), available at [here](https://doi.org/10.1007/s12083-022-01377-6).
+
+# Blog
+Please visit [https://blog.mrccc.club.](https://blog.mrccc.club).
 
 # Contact
 <b>Congcong Chen</b> <br>
