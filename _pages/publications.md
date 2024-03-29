@@ -21,6 +21,12 @@ author_profile: true
   {% include archive-single.html %}
 {% endfor %} -->
 You can visit my [Google Scholar Profile](https://scholar.google.com/citations?user=mKiN4goAAAAJ&hl=zh-CN) or [ORCID](https://orcid.org/0000-0002-1716-1332) for more information.
+
+## 2024 
+* <b>Blockchain-based Traceable Selective Disclosure Credentials for Self-Sovereign Identity</b>.<br>
+Xiang Li, <b>Congcong Chen</b>, Minyu Teng, Yang Shi.
+<i>International Conference on Computer Supported Cooperative Work in Design (<b>CSCWD 2024</b>)</i>.<br>
+
 ## 2023
 * <b>DeepDefense: A Steganalysis-Based Backdoor Detecting and Mitigating Protocol in Deep Neural Networks for AI Security</b>.<br>
 Lei Zhang, Ya Peng, Lifei Wei, <b>Congcong Chen</b>, Xiaoyu Zhang. 
