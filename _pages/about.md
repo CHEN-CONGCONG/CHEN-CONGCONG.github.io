@@ -8,9 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-I am currently a Ph.D. student in the School of Software Engineering (SSE) at Tongji University (TONGJI), under the supervision of Professor [Yang Shi](https://sse.tongji.edu.cn/info/1212/3267.htm).  <br>
+I am currently a Ph.D. student in the School of Software Engineering (SSE) at Tongji University (TONGJI).  <br>
 
-Prior to this, I received my Master of Engineering degree from the College of Information Technology at Shanghai Ocean University, under the guidance of Professor [Lifei Wei](https://cie.shmtu.edu.cn/2022/0612/c6356a175593/page.htm). 
+Prior to this, I received my Master of Engineering degree from the College of Information Technology at Shanghai Ocean University. 
 
 My Bachelor of Engineering degree was obtained from the School of Software at Jiangxi Agricultural University.
 
